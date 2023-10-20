@@ -2,8 +2,8 @@
 
 let age: number = 50;
 let name: string = 'Max';
-let toggle = true;
-let empty = null;
+let toggle: boolean = true;
+let empty: null = null;
 let notInitialize;
 let callback = (a) => { return 100 + a };
 
